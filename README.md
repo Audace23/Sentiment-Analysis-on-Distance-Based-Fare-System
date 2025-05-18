@@ -12,6 +12,7 @@ Word Cloud: Visualizes the most frequent terms to highlight dominant narratives 
 Key Concerns & Misconceptions: Extracted themes offer a deeper understanding of public perception and knowledge gaps.
 
 Policy Recommendations: Actionable suggestions aimed at improving public transport in Kigali Rwanda basing on opinions and needs of commuters.
-# Built with
+# Built With
 . R
+
 . RShiny
