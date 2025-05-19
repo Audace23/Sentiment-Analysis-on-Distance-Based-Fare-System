@@ -19,7 +19,7 @@ Policy Recommendations: Actionable suggestions aimed at improving public transpo
 # Model Used
 In this project I have used Chi-Square Test which is among the best statistical methods (tests) To work with categorical variables like the one I had for this project. I had also you used classification method to classify words (comments) as Positive, Negative, or Neutral
 # Link to My App (Deployed on Shinyapp.io)
-https://c4hpat-audace-tuyizere.shinyapps.io/r_stuff/
+https://c4hpat-audace-tuyizere.shinyapps.io/Sentiment_Analysis_Solution/
 # Link to the uploaded Demo Video
 You can access the Demo Video through this link https://files.fm/u/xtgqgbvkwx
 
